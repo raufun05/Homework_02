@@ -24,4 +24,7 @@ body{
     text-align: center;
     padding: 12px;
 }
+.container p{
+    text-align: justify;
+}
 
