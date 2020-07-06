@@ -34,3 +34,16 @@ body{
 .colimg p{
     text-align: left
 }
+@media only screen and (max-width: 576px) {
+    .mynav {
+      background-color:greenyellow;
+      margin-left: 150px;
+      }
+    }
+@media only screen and (max-width: 576px) {
+    .colbody {
+      color:magenta;
+      text-align: center;
+          
+     }
+    }
