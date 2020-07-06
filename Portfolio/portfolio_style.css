@@ -1,10 +1,11 @@
-.port1{
+.img-responsive{
     position: relative;
 }
-.port1 img{
+.img-responsive img{
     width:340px;
     height:150px;
     margin-left: 10px;
+    float: left;
 }
 .child1{
     width:340px;
@@ -12,9 +13,10 @@
     background-color:rgb(8, 56, 30);
     position: absolute;
     left: 10px;
-    bottom:4px;
+    bottom:0px;
     color: white;
     text-align: center;
+    float: left;
 }
 .port2{
     position: relative;
@@ -23,6 +25,7 @@
     width:340px;
     height:150px;
     margin-right: 10px;
+    float: right;
 }
 .child2{
     width:340px;
@@ -30,9 +33,10 @@
     background-color:rgb(8, 56, 30);
     position: absolute;
     right: 10px;
-    bottom:4px;
+    bottom:0px;
     color: white;
     text-align: center;
+    float: right;
 }
 .port3{
     position: relative;
@@ -42,6 +46,7 @@
     height:150px;
     margin-left: 10px;
     margin-top: 20px;
+    float: left;
 }
 .child3{
     width:340px;
@@ -49,9 +54,10 @@
     background-color:rgb(8, 56, 30);
     position: absolute;
     left: 10px;
-    bottom:4px;
+    bottom:0px;
     color: white;
     text-align: center;
+    float: left;
 }
 .port4{
     position: relative;
@@ -61,6 +67,7 @@
     height:150px;
     margin-right: 10px;
     margin-top: 20px;
+    float: right;
 }
 .child4{
     width:340px;
@@ -68,9 +75,10 @@
     background-color:rgb(8, 56, 30);
     position: absolute;
     right: 10px;
-    bottom:4px;
+    bottom:0px;
     color: white;
     text-align: center;
+    float: right;
 }
 .port5{
     position: relative;
@@ -80,6 +88,7 @@
     height:150px;
     margin-left: 10px;
     margin-top: 20px;
+    float: left;
 }
 .child5{
     width:340px;
@@ -87,7 +96,33 @@
     background-color:rgb(8, 56, 30);
     position: absolute;
     left: 10px;
-    bottom:4px;
+    bottom:0px;
     color: white;
     text-align: center;
+    float: right;
+}
+body{
+    background-color: gray;
+    margin-top: -8px;
+}
+.mynav {
+    padding:15px; 
+    margin-bottom:-8px; 
+    margin-left:30px; 
+    font-weight: bolder; 
+    
+}
+.colbody{
+    background-color:white; 
+    margin-top: 25px; 
+    height: 600px;
+}
+.colbody h4{
+    color: seagreen;
+    margin-top: 15px;
+}
+.colbody hr{
+    height:3px;
+    border-width:0; 
+    background-color:gray
 }
