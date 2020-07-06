@@ -1,0 +1,93 @@
+.port1{
+    position: relative;
+}
+.port1 img{
+    width:340px;
+    height:150px;
+    margin-left: 10px;
+}
+.child1{
+    width:340px;
+    height:35px;
+    background-color:rgb(8, 56, 30);
+    position: absolute;
+    left: 10px;
+    bottom:4px;
+    color: white;
+    text-align: center;
+}
+.port2{
+    position: relative;
+}
+.port2 img{
+    width:340px;
+    height:150px;
+    margin-right: 10px;
+}
+.child2{
+    width:340px;
+    height:35px;
+    background-color:rgb(8, 56, 30);
+    position: absolute;
+    right: 10px;
+    bottom:4px;
+    color: white;
+    text-align: center;
+}
+.port3{
+    position: relative;
+}
+.port3 img{
+    width:340px;
+    height:150px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.child3{
+    width:340px;
+    height:35px;
+    background-color:rgb(8, 56, 30);
+    position: absolute;
+    left: 10px;
+    bottom:4px;
+    color: white;
+    text-align: center;
+}
+.port4{
+    position: relative;
+}
+.port4 img{
+    width:340px;
+    height:150px;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+.child4{
+    width:340px;
+    height:35px;
+    background-color:rgb(8, 56, 30);
+    position: absolute;
+    right: 10px;
+    bottom:4px;
+    color: white;
+    text-align: center;
+}
+.port5{
+    position: relative;
+}
+.port5 img{
+    width:340px;
+    height:150px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.child5{
+    width:340px;
+    height:35px;
+    background-color:rgb(8, 56, 30);
+    position: absolute;
+    left: 10px;
+    bottom:4px;
+    color: white;
+    text-align: center;
+}
