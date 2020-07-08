@@ -30,3 +30,7 @@ body{
       }
     }
 
+.nav-link:hover{
+background-color: mediumvioletred;
+}
+

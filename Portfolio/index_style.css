@@ -45,5 +45,8 @@ body{
       color:magenta;
       text-align: center;
           
-     }
+    }
+}
+.nav-link:hover{
+    background-color: mediumvioletred;
     }
